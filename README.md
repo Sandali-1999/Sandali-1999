@@ -26,6 +26,11 @@ Throughout my academic journey, I have created and contributed to numerous indiv
 
 •	Study on Sampling Techniques Using Billionaires Dataset in R (Group)
 
+•	Develop the Web Application Using HTML, CSS (Individual)
+
+•	Develop the Skin Care Consult System Using Java (Group)
+
+
 Email: sandaligunathilaka@gmail.com
 
 <b>Programming Languages and Tools</b>
